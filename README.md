@@ -17,10 +17,3 @@ I'm a student at Inholland University of Applied Sciences Haarlem, currently stu
 
 ## Skills
 ![My Skills](https://skillicons.dev/icons?i=nodejs,javascript,typescript,cs,java,python,php,html,css,sass,tailwind,vuejs,spring,mysql,redis,mongodb,sqlite,git,linux,docker,nginx,bootstrap,xd,figma,dotnet)
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Chrislybeer01&show_icons=true&locale=en&layout=compact&theme=radical" alt="Chrislybeer01" />
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Chrislybeer01&show_icons=true&locale=en&theme=radical" alt="Chrislybeer01" />
-</p>
-
-Thanks for stopping by!
